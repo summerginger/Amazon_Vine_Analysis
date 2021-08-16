@@ -1,5 +1,4 @@
 # Amazon_Vine_Analysis
-This project analyzes Amazon Vine program and determines if there is a bias toward favorable reviews from Vine members.
 ## Overview of the analysis
 The project analyzes Amazon Vine program and determines if there is a bias toward favorable reviews from Vine members.
 ### The purpose 
