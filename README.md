@@ -7,12 +7,12 @@ The purpose of this analysis is to allow manufacturers and publishers to receive
 
 •	Total number of reviews of vine were 1,395, non-vine reviews were 84,949.
 
-•	624 Vine reviews were 5 stars and 41,265 non-Vine reviews were 5 stars?
+•	624 Vine reviews were 5 stars and 41,265 non-Vine reviews were 5 stars.
 
 •	Approximately 45% Vine reviews were 5 stars  and 49% of non-Vine reviews were 5 stars.
 ## Summary
 According to the results, There is a slightly high number of negtive bias for reviews in the vine program. Where 49% of the reviews in the non-vine program were 5 stars reviews whereas the percentage in the vine reviews is about 45%. Additionally, we could further analyse the statistical distribution (mean, median and mode) of the star rating for the Vine and non-Vine reviews.
 
-### resources
+### Technologies
 Google Colab Notebook, PostgreSQL 13.4, pgAdmin 4, AWS
 
